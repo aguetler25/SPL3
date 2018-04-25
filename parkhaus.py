@@ -2,6 +2,8 @@
 # Angabe fuer das Beispiel: siehe moodle
 
 print ("Linienbus-Simulator")
+haltestellen = ("Wie viele Haltestellen gibt es? ")
+haltestellen = int(haltestellen)
 
 einsteiger = input("Wie viele Personen wollen einsteigen")
 
